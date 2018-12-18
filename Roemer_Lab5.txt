@@ -1,0 +1,28 @@
+Roemer_Lab5.txt
+
+1.
+#div1 {
+	background: orange;
+}
+
+2. 
+	a) Padding affects the box width height, etc. (in px)
+	b) margin affects the area around the box like space between boxes in px
+3.
+	a) the larger margin the smaller the background color (overlaps) and at 100 pixels it completely overwrites the text background color
+	b) the padding makes a really cool square box like thing that increases the background color of the text and will scale well over 100px and draw outside of the box but behind the other boxes
+4.
+	a)Scroll adds scroll bars to view the whole padding
+	b)hidden cuts off any overflow out of the box
+5.
+	a)float left didnt change much because they were already on the right side :( from 1 to 3 in one line
+	b)float right moved all of the tables to the right side of the screen
+	from 3-1 in one line
+6.
+	a)so the box's without the float left will remain on the right side and the boxs with float left will move one line down in float left order and the gap(s) change depending which do and do not have the float left based on the order described above
+7.
+	a)Float left in div and clear left for div3
+
+8.
+	a)sucks to the top left side of the screen. That the default body margin is >0
+	
